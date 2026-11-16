@@ -1,4 +1,4 @@
-# koreal-docs
+# korealm-docs
 
 Exercises, examples, and supporting files for posts on the korealm blog.
 
